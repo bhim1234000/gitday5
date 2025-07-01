@@ -5,7 +5,7 @@ print("Welcome to Simple Calculator!")
 
 # Get user input
 num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+num2 = float(input("Enter second number2: "))
 
 # Perform addition
 result = num1 + num2
